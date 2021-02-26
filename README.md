@@ -40,7 +40,7 @@ revenue-management
         └── marginal_plot.pdf
 ```
 ## Requirement
-- To install the library: ``` javascript install.packages("lpSolve",repos = "http://cran.us.r-project.org") ```
+- To install the library: ```install.packages("lpSolve",repos = "http://cran.us.r-project.org")```
 
 ## File Description
 * ```companion_document.pdf``` -> Document that explains rational and analysis of the project
