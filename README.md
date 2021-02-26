@@ -7,7 +7,7 @@ were explored, and executed and compared the results with one another.
 
 ## Scope of the Project
 - To analyse a café and explore various strategies to find optimal allocation
-- To advice a sporting event organizer regarding an optimal allocation of tickets Day1&Day2
+- To advice a sporting event organizer regarding an optimal allocation of five products 
 - To analyse an optimal room allocation of a hotel in Morocco adjacent to the F1 event in 2021
 
 ## Dataset
