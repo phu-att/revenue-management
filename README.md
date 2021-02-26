@@ -63,3 +63,4 @@ revenue-management
 * ```LF1_200t.pdf``` -> The graph contains an optimal allocation for Low-Fare Day1 product, with 200 periods remaininig  
 * ```LF2_100t.pdf``` -> The graph contains an optimal allocation for Low-Fare Day2 product, with 100 periods remaininig 
 * ```LF2_200t.pdf``` -> The graph contains an optimal allocation for Low-Fare Day2 product, with 200 periods remaininig 
+* ``` marginal_plot.pdf ``` -> The graph contains a diminishing marginal return effect of protecting High-Fare hotel package of a Morocco hotel
