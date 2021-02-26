@@ -12,7 +12,7 @@ were explored, and executed and compared the results with one another.
 
 ## Dataset
 * Self-generated data for the first and second instances  
-* Self-collected data from various sources for the third instance (see ``` companion_doc.pdf ``` for more details)
+* Self-collected data from various sources for the third instance (see ```companion_doc.pdf``` for more details)
 
 ## Directory Structure
 ``` bash
